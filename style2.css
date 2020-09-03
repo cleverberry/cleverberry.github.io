@@ -83,7 +83,7 @@ a:focus {
 }
 
 #sidebar ul li a:hover {
-    color: #7386D5;
+    color: #434343;
     background: #fff;
 }
 
@@ -108,7 +108,7 @@ a[data-toggle="collapse"] {
 ul ul a {
     font-size: 0.9em !important;
     padding-left: 30px !important;
-    background: #6d7fcc;
+    background: white;
 }
 
 ul.CTAs {
@@ -180,4 +180,23 @@ a.article:hover {
 
 .navbar {
     margin-bottom: 0px;
+}
+
+
+.ul-sidebar-lj {
+    font-family: 'Roboto', sans-serif;
+    font-size: 13px;
+}
+
+#sidebar ul li a:hover {
+    background-color: #434343;
+    color: white;
+}
+
+a:focus, a:hover, a:visited {
+    color: #434343;
+}
+
+#sidebar ul li a {
+    color: #434343;
 }

@@ -1,30 +1,27 @@
 - name: 0-9
   titles: 
     - 10 blue links
-    - Sample
+    - 200 OK
+    - 301 (Moved Permanently)
+    - 302 Found (New HTTP Version 1.1)/Moved Temporary(Old HTTP version 1.0)
+    - 307 (Temporary Redirect)
+    - 403 (Forbidden) HTTP Status Code
+    - 404 (Not Found)
+    - 410 (Gone)
+    - 500 (Internal Server Error)
+    - 503 (Service Unavailable)
+
 - name: A
-- name: B
-- name: C
-- name: D
-- name: E
-- name: F
-- name: G
-- name: H
-- name: I
-- name: J
-- name: K
-- name: L
-- name: M
-- name: N
-- name: O
-- name: P
-- name: Q
-- name: R
-- name: S
-- name: T
-- name: U
-- name: V
-- name: W
-- name: X
-- name: Y
-- name: Z
+  titles:
+    - Above The Fold
+    - Absolute URLs
+    - Accelerated Mobile Pages (AMP)
+    - Agile Content Development
+    - Anchor Text
+    - Algorithm Update
+    - AdWords
+    - Alt Attributes
+    - Alt text
+    - Auto-generated content
+    - Async
+
