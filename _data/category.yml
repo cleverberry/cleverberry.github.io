@@ -1,27 +1,407 @@
 - name: 0-9
-  titles: 
-    - 10 blue links
-    - 200 OK
-    - 301 (Moved Permanently)
-    - 302 Found (New HTTP Version 1.1)/Moved Temporary(Old HTTP version 1.0)
-    - 307 (Temporary Redirect)
-    - 403 (Forbidden) HTTP Status Code
-    - 404 (Not Found)
-    - 410 (Gone)
-    - 500 (Internal Server Error)
-    - 503 (Service Unavailable)
+  posts: 
+    - title: 10 blue links
+      url: /
+    - title: 200 OK
+      url: /
+    - title: 301 (Moved Permanently)
+      url: /
+    - title: 302 Found (New HTTP Version 1.1)/Moved Temporary(Old HTTP version 1.0)
+      url: /
+    - title: 307 (Temporary Redirect)
+      url: /
+    - title: 403 (Forbidden) HTTP Status Code
+      url: /
+    - title: 404 (Not Found)
+      url: /
+    - title: 410 (Gone)
+      url: /
+    - title: 500 (Internal Server Error)
+      url: /
+    - title: 503 (Service Unavailable)
 
 - name: A
-  titles:
-    - Above The Fold
-    - Absolute URLs
-    - Accelerated Mobile Pages (AMP)
-    - Agile Content Development
-    - Anchor Text
-    - Algorithm Update
-    - AdWords
-    - Alt Attributes
-    - Alt text
-    - Auto-generated content
-    - Async
+  posts: 
+    - title: Above The Fold
+      url: /
+    - title: Absolute URLs
+      url: /
+    - title: Accelerated Mobile Pages (AMP) Agile Content Development
+      url: /
+    - title: Anchor Text
+      url: /
+    - title: Algorithm Update
+      url: /
+    - title: Algorithm Update
+      url: /
+    - title: AdWords
+      url: /
+    - title: Alt Attributes Anchor Text
+      url: /
+    - title: Alt text
+      url: /
+    - title: Auto-generated content
+      url: /
+    - title: Async
+      url: /
 
+- name: B
+  posts: 
+    - title: Backlinks
+      url: /
+    - title: Bad Neighborhoods
+      url: /
+    - title: Blockers
+      url: /
+    - title: Bounce rate
+      url: /
+    - title: Broken Links
+      url: /
+    - title: Browser
+      url: /
+    - title: Bundling
+      url: /
+    - title: Business directory
+      url: /
+
+- name: C
+  posts: 
+    - title: Caffeine 
+      url: /
+    - title: Cloaking
+      url: /
+    - title: Competition
+      url: /
+    - title: Content Gap Analysis
+      url: /
+    - title: Content Marketing
+      url: /
+    - title: Content
+      url: /
+    - title: Content Relevance
+      url: /
+    - title: Content Management System (CMS)
+      url: /
+    - title: Content Marketing
+      url: /
+    - title: CSS
+      url: /
+    - title: Canonical
+      url: /
+    - title: Cost Per Click (CPC)
+      url: /
+    - title: Click Through Rate (CTR)
+      url: /
+    - title: Conversion
+      url: /
+    - title: Cookies
+      url: /
+    - title: Crawling
+      url: /
+    - title: Crawlers
+      url: /
+
+- name: D
+  posts: 
+    - title: Defective Links
+      url: /
+    - title: De-indexed
+      url: /
+    - title: DNS
+      url: /
+    - title: DOM
+      url: /
+    - title: Domain name registrar
+      url: /
+    - title: Domain Popularity
+      url: /
+    - title: Duplicate Content
+      url: /
+    - title: Domain trust
+      url: /
+    - title: Duplicate Content
+      url: /
+    - title: Dropshipping
+      url: /
+
+- name: E
+  posts: 
+    - title: Evergreen Content
+      url: /
+
+- name: F
+  posts: 
+    - title: Featured Snippets
+      url: /
+    - title: Fetch as Google
+      url: /
+    - title: Frame
+      url: /
+  
+- name: G
+  posts: 
+    - title: Google Ads
+      url: /
+    - title: Google Analytics
+      url: /
+    - title: Guest blogging
+      url: /
+    - title: Google Keyword Planner
+      url: /
+    - title: Google Knowledge Graph GSC (Google Search Console)
+      url: /
+    - title: Google Maps
+      url: /
+    - title: Google My Business
+      url: /
+    - title: Google News
+      url: /
+    - title: Google Quality Guidelines
+      url: /
+    - title: Google Panda Update
+      url: /
+    - title: Google Penguin Update
+      url: /
+    - title: Phantom Update
+      url: /
+    - title: Google Places
+      url: /
+    - title: Google Search Console
+      url: /
+    - title: Google Trends
+      url: /
+    - title: Google Updates
+      url: /
+    - title: Google mobile updates
+      url: /
+    - title: "Google’s Hummingbird Algorithm: The Entity Search Revolution"
+      url: /
+    - title: Google+Local (Google Places)
+      url: /
+
+- name: H
+  posts: 
+    - title: Hashtags
+      url: /
+    - title: Homepage HTTPS
+      url: /
+
+- name: I
+  posts:
+    - title: Index
+      url: /
+    - title: Information Architecture
+      url: /
+    - title: IP address
+      url: /
+    - title: Internal links Image compression Image sitemap
+      url: /
+
+- name: J
+  posts: 
+    - title: JavaScript
+      url: /
+
+- name: K
+  posts: 
+    - title: "key performance indicator (KPI):"
+      url: /
+    - title: Keyword
+      url: /
+    - title: Keyword Density
+      url: /
+    - title: Knowledge Graph
+      url: /
+    - title: Keyword Proximity
+      url: /
+    - title: Keyword Stuffing
+      url: /
+
+- name: L
+  posts: 
+    - title: Lazy loading
+      url: /
+    - title: Link building
+      url: /
+    - title: Link juice
+      url: /
+    - title: Link Popularity
+      url: /
+    - title: Link text Latent Semantic Indexing
+      url: /
+    - title: Long-tail keywords
+      url: /
+
+- name: M
+  posts: 
+    - title: Meta Description
+      url: /
+    - title: Meta Search Term
+      url: /
+    - title: Meta Tag
+      url: /
+    - title: Meta Title
+      url: /
+    - title: Minification Mobile First Index
+      url: /
+
+- name: N
+  posts: 
+    - title: Negative SEO
+      url: /
+    - title: Nofollow Attributes
+      url: /
+
+- name: O
+  posts: 
+    - title: Offpage Optimization
+      url: /
+    - title: Onpage Optimization
+      url: /
+    - title: Orphan Pages
+      url: /
+
+- name: P
+  posts: 
+    - title: Pagespeed
+      url: /
+    - title: Page
+      url: /
+    - title: Page Content
+      url: /
+    - title: Paid Listing
+      url: /
+    - title: Page Title
+      url: /
+    - title: Permalink 
+      url: /
+    - title: Plagiarism Finder
+      url: /
+    - title: Purchased links
+      url: /
+    - title: Progressive Web Apps
+      url: /
+
+- name: Q
+  posts: 
+    - title: Query Deserves Freshness
+      url: /
+
+- name: R
+  posts: 
+    - title: Rankbrain
+      url: /
+    - title: Ranking Factors
+      url: /
+    - title: Ranking opportunities
+      url: /
+    - title: Rankings
+      url: /
+    - title: Redirection
+      url: /
+    - title: Rel=canonical
+      url: /
+    - title: Relevance
+      url: /
+    - title: Rich Snippets
+      url: /
+    - title: Remarketing
+      url: /
+    - title: Responsive Website
+      url: /
+    - title: Robots.txt
+      url: /
+
+- name: S
+  posts: 
+    - title: Schema Markup
+      url: /
+    - title: Scraped content
+      url: /
+    - title: SEO Visibility
+      url: /
+    - title: SSL EncryptionSERP
+      url: /
+    - title: SERP
+      url: /
+    - title: Search Engine
+      url: /
+    - title: Search Engine Advertising
+      url: /
+    - title: Search Engine Guidelines
+      url: /
+    - title: Search Engine Marketing
+      url: /
+    - title: Search Engine Optimization
+      url: /
+    - title: Search Engine Registration
+      url: /
+    - title: Search Engine Spam
+      url: /
+    - title: Search Result
+      url: /
+    - title: Search Term
+      url: /
+    - title: Search volume
+      url: /
+    - title: Seasonal trends
+      url: /
+    - title: Seed keywords
+      url: /
+    - title: Sitemap.xml
+      url: /
+
+- name: T
+  posts: 
+    - title: Topical Relevance
+      url: /
+    - title: TrustRank
+      url: /
+
+- name: U
+  posts: 
+    - title: Universal Search
+      url: /
+    - title: URL
+      url: /
+    - title: User Experience
+      url: /
+    - title: User/Search Intent User Search History
+      url: /
+    - title: User Signals
+      url: /
+    - title: UTM code
+      url: /
+
+- name: V
+  posts: 
+    - title: Voice Search
+      url: /
+
+- name: W
+  posts: 
+    - title: Web Catalogues
+      url: /
+    - title: Web Directory
+      url: /
+    - title: Webmaster Guidelines
+      url: /
+    - title: Website Website Structure Wikipedia
+      url: /
+  
+- name: X
+  posts: 
+    - title: XML Sitemap
+      url: /
+  
+- name: Y
+  posts: 
+    - title: Yoast Plugin
+      url: /
+    - title: YouTube Videos
+      url: /
+
+- name: Z
+  posts: 
+    - title: Zero-Result SERPs 
+      url: /
