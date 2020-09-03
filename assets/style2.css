@@ -193,10 +193,6 @@ a.article:hover {
     color: white;
 }
 
-a:focus, a:hover, a:visited {
-    color: #434343;
-}
-
 #sidebar ul li a {
     color: #434343;
 }
