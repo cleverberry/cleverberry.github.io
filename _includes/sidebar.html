@@ -7,9 +7,9 @@
         {% for category_hash in site.data.category %}
         {% assign category = category_hash %}
         <li>
-            <a>{{ category.name }}</a>
-            <hr>
-            <ul class="list-unstyled" id="">
+            <a style="cursor: pointer;" onclick="showList('{{ category.name }}')">{{ category.name }}</a>
+            
+            <ul id="{{category.name}}list" class="post-list list-unstyled hidden" id="">
                 {% for post_hash in category.posts %}
                 {% assign post = post_hash %}
                 <li class="li-sidebar-title-lj">
@@ -17,11 +17,10 @@
                 </li>
                 {% endfor %}
             </ul>
-            <hr>
+            
         </li>
         {% endfor %}
     </ul>
-    
     <!-- <ul class="list-unstyled components">
         <li class="active">
             <a href="#homeSubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Home</a>
